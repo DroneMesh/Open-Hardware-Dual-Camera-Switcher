@@ -2,7 +2,7 @@
 Open Hardware Dual Camera Switch
 
 To Download or buy the PCB go Here
-
+https://www.pcbway.com/project/shareproject/DroneMesh_FPV_Dual_Camera_PCB__Programmable_.html
 
 # Parts Needed
 
