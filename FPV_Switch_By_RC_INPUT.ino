@@ -31,7 +31,7 @@ void loop()
    if (duration < 1500)
     {
       digitalWrite(CAM2, LOW); // Turn Cam 2 Off 
-      digitalWrite(CAM1, HIGH);  Turn Cam 1 On
+      digitalWrite(CAM1, HIGH);  // Turn Cam 1 On
     }
 
  }
